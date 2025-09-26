@@ -1,55 +1,39 @@
 # IPL-Analysis-2008-2025-(Interactive Dashboard creation using power-BI)
 ## Project Objective
-The objective of this project is to create an interactive Power BI dashboard that provides insights into the performance of teams across IPL seassons from 2008 to 2025 with advanced Dax Functions.
-## Primary KPI's
-A key business requirement is to enable users to select any season using a slicer/filter and instantly view:
-- The Winner Team of the selected season along with its dynamically displayed team logo.
-- The Runner-Up Team of the selected season along with its dynamically displayed team logo.
-## Secondary KPI's
-A key business requirement is to enable users to select any season using a slicer/filter and instantly view:
-1) Total Sixes.
-2) Total Fours.
-3) Total Matches Played.
-4) Total Teams Participated.
-5) Total Centuries.
-6) Total Half-Centuries.
-7) Total Venues Used.
-## Season Stat's
-A key business requirement is to enable users to select any season using a slicer/filter and instantly view:
-### Orange Cap Stats                      
-- Orange Cap Holder Name
-- Total Runs Scored in the season
-- Team Name the player represented
-- Player Image (dynamically rendered)
+This project presents an interactive Power BI dashboard for analyzing insurance business performance.
+It provides insights into key sales, revenue, and client engagement KPIs to support data-driven decision-making.
 
-### Purple Cap Stats
-- Purple Cap Holder Name
-- Total Wickets in the season
-- Team Name the player represented
-- Player Image (dynamically rendered)
+The dashboard helps stakeholders track sales performance, understand customer engagement, and identify growth opportunities through clear visualizations.
+## Objectives
+Monitor performance of account executives.
+Track targets vs. achievements for cross-sell, new, and renewal business.
+Analyze meeting frequency with clients.
+Visualize sales funnel by revenue stages.
+Identify top open opportunities for business growth.
+## KPI"S Performances
+1-No of Invoice by Accnt Exec
+2-Yearly Meeting Count
 
-### Total Fours in Season
-- Player Name
-- Total Fours in the season
-- Team Name the player represented
-- Player Image (dynamically rendered)
+3.1Cross Sell--Target,Achive,new
+3.1New-Target,Achive,new
+3.1Renewal-Target, Achive,new
 
-### Total Sixes in Season
-- Player Name
-- Total Six's in the season
-- Team Name the player represented
-- Player Image (dynamically rendered)
-## Points Table
-When a specific season is selected via a slicer/filter, display a Points Table that includes the following dynamic fields for each team:
-|Logo | Teart Name | Matches Played | Worn |Lost | No Result | Tie | Total Points |
-
-- Logo: Dynamic team logo.
-- Team Name: Official name of the IPL team.
-- Matches Played: Total matches played by the team in the selected season.
-- Won: Number of matches won.
-- Lost: Number of matches lost.
-- No Result: Matches with no result (eg, rain-affected).
-- Tie: Matches that ended in a tie.
-- Total Points: Calculated using standard IPL points rules:(Total Points = (Win x 2)+(Ties x 1) + (No Result X 1).
-  ## Dashboard
-  ![Superstore Sales Analysis Dashboard](https://github.com/deepuhacker/IPL-Analysis-2008-2025--power-BI/blob/main/IPL%20analysis%202008-2925.png)
+4. Stage Funnel by Revenue
+5. No of meeting By Account Exe
+6-Top Open Opportunity
+## Dashboard
+  ![Excel](https://github.com/deepuhacker/Insurance-Analytics/blob/main/Screenshot%202025-09-26%20122112.png)
+  ![Tableau](https://github.com/deepuhacker/Insurance-Analytics/blob/main/Screenshot%202025-08-31%20105719.png)
+  ![Power BI](https://github.com/deepuhacker/Insurance-Analytics/blob/main/Screenshot%202025-09-09%20130453.png)
+## Insights
+Helps track sales team performance against business targets.
+Identifies growth opportunities via cross-sell and renewals.
+Provides a clear funnel view to monitor deal stages.
+Supports strategic decision-making with data-driven insights.
+## Future Improvements
+Automating data refresh using a database connection.
+Adding predictive analysis (e.g., revenue forecasting).
+Integration with Power BI Service for real-time collaboration.
+## Author
+Name: Makala Deepak
+📧 Contact: [https://www.linkedin.com/in/makala-deepak-63471425a/](Makala Deepak)
