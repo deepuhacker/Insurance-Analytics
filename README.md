@@ -22,8 +22,11 @@ Identify top open opportunities for business growth.
 5. No of meeting By Account Exe
 6-Top Open Opportunity
 ## Dashboard
+### Excel
   ![Excel](https://github.com/deepuhacker/Insurance-Analytics/blob/main/Screenshot%202025-09-26%20122112.png)
+### Tableau
   ![Tableau](https://github.com/deepuhacker/Insurance-Analytics/blob/main/Screenshot%202025-08-31%20105719.png)
+### Power BI
   ![Power BI](https://github.com/deepuhacker/Insurance-Analytics/blob/main/Screenshot%202025-09-09%20130453.png)
 ## Insights
 Helps track sales team performance against business targets.
