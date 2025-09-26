@@ -1,4 +1,4 @@
-# IPL-Analysis-2008-2025-(Interactive Dashboard creation using power-BI)
+# Insurance Analytics-(Interactive Dashboard creation for Excel,Tableau & Power BI)
 ## Project Objective
 This project presents an interactive Power BI dashboard for analyzing insurance business performance.
 It provides insights into key sales, revenue, and client engagement KPIs to support data-driven decision-making.
