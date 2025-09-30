@@ -39,4 +39,4 @@ Adding predictive analysis (e.g., revenue forecasting).
 Integration with Power BI Service for real-time collaboration.
 ## Author
 Name: Makala Deepak
-📧 Contact: [https://www.linkedin.com/in/makala-deepak-63471425a/](Makala Deepak)
+📧 Contact: [Makala Deepak](https://www.linkedin.com/in/makala-deepak-63471425a/)
